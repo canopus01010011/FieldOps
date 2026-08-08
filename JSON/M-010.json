@@ -1,0 +1,1 @@
+{"mission":{"id":"M-010","type":"installation","start":"2026-11-11 11:11","end":"2026-11-11 13:11","site":"S-002 | USTHB bab ezzour-Algeria - Faculty of CS site","technician":"T-003 | Karim BenRached","driver":"D-002 | Yacin Idalia","gps":"GPS-004 | GPS00303","equipment":[{"id":"EQ-001","type":"Router","quantity":"5","model":"Cisco 2900"}]}}

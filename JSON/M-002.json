@@ -1,0 +1,17 @@
+{"mission":
+{"id":"M-002",
+"type":"installation",
+"start":"2026-05-05 10:25",
+"end":"2026-05-05 12:00",
+"site":"S-002 | USTHB bab ezzour-Algeria - Faculty of CS site",
+"technician":"T-003 | Karim BenRached",
+"driver":"D-002 | Yacin Idalia",
+"gps":"GPS-002 | Ayayaya-002",
+"equipment":[{"id":"EQ-001","type":"Baseband","quantity":"1","model":"Ericsson Baseband 6630"},
+{"id":"EQ-002","type":"RRU","quantity":"8","model":"Ericsson Radio 2212 / 4415"},
+{"id":"EQ-003","type":"Antennas","quantity":"3","model":"Tri-sector MIMO antennas"},
+{"id":"EQ-004","type":"Transmission","quantity":"1","model":"Fiber + IP router"},
+{"id":"EQ-005","type":"Microwave backup","quantity":"1","model":"MINI-LINK 6352"},
+{"id":"EQ-006","type":"Power system","quantity":"1","model":"DC rectifier system"},
+{"id":"EQ-007","type":"Batteries","quantity":"7","model":"48V 200Ah"},
+{"id":"EQ-008","type":"Cooling","quantity":"1","model":"Air conditioning unit"}]}}
